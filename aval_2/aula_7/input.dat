@@ -1,0 +1,3 @@
+100               ! numero de linhas e colunas
+0., 10., 0., -10.    ! valores da fronteira
+1.e-6             ! critério de parada
